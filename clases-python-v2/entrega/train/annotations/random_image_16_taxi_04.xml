@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>random_image_16_taxi_04.jpg</filename>
+	<path>/home/pablo/Documentos/master-profe/software-en-matematicas/clases-python-v2/entrega/train/images/random_image_16_taxi_04.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>taxi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>153</xmin>
+			<ymin>41</ymin>
+			<xmax>1267</xmax>
+			<ymax>1050</ymax>
+		</bndbox>
+	</object>
+</annotation>
